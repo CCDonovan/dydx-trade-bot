@@ -11,10 +11,6 @@ from func_messaging import send_message
 # MAIN FUNCTION
 if __name__ == "__main__":
 
-  success = send_message("Laurence can't even griddy")
-  print(success)
-  exit(1)
-
   # Message on start
   send_message("Bot launch successful")
 
